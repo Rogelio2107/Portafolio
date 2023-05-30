@@ -1,0 +1,15 @@
+.fondo-page1{
+background-image: url(/assets/imagenes/img-fondo1.svg);
+}
+
+.color-primario{
+  background-color: #FFC139 !important;
+  color: white !important;
+}
+.espacio-superior{
+  margin-top: 2%;
+}
+.imagenes{
+  width: 150px; ;
+  height:200;
+}
